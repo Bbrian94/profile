@@ -37,6 +37,16 @@ button:hover{
   box-shadow: 2px 2px 3px black;
 }
 
+.basketball{
+  text-align: left;
+}
+
+#basketball:hover{
+  color: black;
+  box-shadow: #050201;
+  background-color: #E64017;
+  box-shadow: 2px 2px 3px black;
+}
 
 h1,h2{
   font-family:Poppins;
